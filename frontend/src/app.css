@@ -1,0 +1,76 @@
+.nav-ul li{
+  display: inline;
+  padding-left: 5px;
+}
+
+.nav-ul li a{
+  color: #fff;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.nav-ul {
+  padding: 5px;
+  margin: 0;
+  background-color: skyblue;
+}
+
+.inputBox{
+ display: block;
+ padding: 7px;
+ margin: 25px;
+ border: 1px solid skyblue;
+ width: 300px;
+
+}
+
+.appButton{
+  margin: 25px;
+  padding: 10px;
+  width: 150px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.appButton:hover{
+  color: skyblue;
+  background-color: whitesmoke;
+}
+
+.toast-container{
+  margin-bottom : 120px;
+  right: 20px;
+  left : auto !important
+}
+
+.product-lists{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.product-lists ul li{
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 150px;
+}
+
+.product-lists ul{
+  margin: 0px;
+}
+
+.add-product-btn{
+  margin-bottom: 20px;
+  background-color: skyblue;
+  border: 1px solid skyblue;
+  border-radius: 5px;
+  width: 100px;
+  height: 40px;
+}
+
+.add-product-btn:hover{
+  cursor: pointer;
+  background-color: white;
+  color: skyblue;
+}
